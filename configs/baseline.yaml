@@ -1,0 +1,17 @@
+seed: 42
+device: auto
+output_dir: checkpoints/baseline
+image_size: 128
+batch_size: 16
+num_workers: 4
+epochs: 20
+learning_rate: 0.0002
+weight_decay: 0.00001
+reconstruction_weight: 1.0
+perceptual_weight: 0.1
+layout_weight: 0.2
+skeleton_weight: 0.2
+save_every: 1
+condition_embedding_dim: 128
+base_channels: 64
+

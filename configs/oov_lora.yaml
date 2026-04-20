@@ -1,0 +1,12 @@
+seed: 42
+device: auto
+output_dir: checkpoints/oov_lora
+image_size: 128
+batch_size: 8
+num_workers: 2
+epochs: 10
+learning_rate: 0.00005
+lora_rank: 8
+lora_alpha: 16
+lora_dropout: 0.05
+

@@ -1,0 +1,2 @@
+target_id,target_image,structure,component_a,component_b,component_a_image,component_b_image,style_id,font_id
+gz_demo_001,/absolute/path/to/target.png,left_right,radical_left,radical_right,/absolute/path/to/component_a.png,/absolute/path/to/component_b.png,oov_demo,manual

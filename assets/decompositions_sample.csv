@@ -1,0 +1,12 @@
+target_char,structure,component_a,component_b
+好,left_right,女,子
+明,left_right,日,月
+休,left_right,亻,木
+狗,left_right,犭,句
+国,full_surround,囗,玉
+间,surround_from_left,门,日
+问,surround_from_left,门,口
+闪,surround_from_left,门,人
+困,full_surround,囗,木
+闷,surround_from_left,门,心
+
