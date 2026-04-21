@@ -9,4 +9,6 @@ artifacts/
 data/generated/
 checkpoints/
 wandb/
-
+docs/thesis/ppt/preview/
+docs/thesis/ppt/build/node_modules/
+docs/thesis/ppt/~$*.pptx
